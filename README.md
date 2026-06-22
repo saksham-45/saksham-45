@@ -27,9 +27,9 @@ PORTAL    : https://portfolio-eight-beta-78.vercel.app
 
 ---
 
-## 🛠️ [TECH_MATRIX]
+##  [TECH_TALK]
 
-### 📡 Languages & Core Runtime
+###  Languages & Core Runtime
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d0d15" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0d0d15" alt="C++" />
@@ -39,7 +39,7 @@ PORTAL    : https://portfolio-eight-beta-78.vercel.app
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white&labelColor=0d0d15" alt="Swift" />
 </p>
 
-### 🧠 Mathematics & Neural Architecture
+###  Mathematics & Neural Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d0d15" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d0d15" alt="TensorFlow" />
@@ -49,7 +49,7 @@ PORTAL    : https://portfolio-eight-beta-78.vercel.app
   <img src="https://img.shields.io/badge/DSP%20%2F%20Librosa-ff007f?style=flat-square&labelColor=0d0d15" alt="DSP" />
 </p>
 
-### ⚙️ Systems & DevOps Infrastructure
+###  Systems & DevOps Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d0d15" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d0d15" alt="Linux" />
@@ -60,23 +60,23 @@ PORTAL    : https://portfolio-eight-beta-78.vercel.app
 
 ---
 
-## 🕹️ [CORE_SIMULATIONS_&_AI]
+##  [CORE_SIMULATIONS_&_AI]
 
-### 🌌 [IntrovertEnsemble](https://github.com/saksham-45/introvertensemble)
+###  [IntrovertEnsemble](https://github.com/saksham-45/introvertensemble)
 > **Agent-Based Library Seating Simulation & Spatial Graph Psychology**
 * Designed an agent-based library seating model featuring 8 student personas tracking occupancy density and reseating behaviors.
 * Implemented multi-factor seat scoring, graph-based routing, and 4 stochastic event types for dynamic environment modeling.
 * Built seeded experiment runs and telemetry capturing metrics to enable reproducible focal-agent behavior analysis.
 * *Stack:* `Python` | `Graph Algorithms` | `Simulation Heuristics` | `JSON`
 
-### 🎵 [Auto mix](https://github.com/saksham-45/automix-_.)
+###  [Auto mix](https://github.com/saksham-45/automix-_.)
 > **Neural Audio DSP & DJ Curve Synthesis**
 * Built an automated DJ mixing system that executes harmonic analysis, micro-timing alignment, and hybrid blending.
 * Trained dynamic neural networks and LSTM models to predict optimal transition curves, reducing vocal clashes and mismatching stems.
 * Engineered multi-variable optimization scoring over spectral balance, loudness envelope, and rhythmic transients.
 * *Stack:* `Python` | `PyTorch` | `Librosa` | `Demucs` | `Audio DSP`
 
-### 🧪 [Isomercount](https://github.com/saksham-45/isomercount)
+###  [Isomercount](https://github.com/saksham-45/isomercount)
 > **Combinatorial Graph Enumeration & Research Engine**
 * Built an exact combinatorial counting engine for cyclic graphs and colored snake polyominoes using transfer matrices, Burnside's lemma, and Möbius-based filtering instead of brute-force enumeration.
 * Added recurrence discovery, symbolic verification, and mathematical validation sequences.
@@ -84,28 +84,28 @@ PORTAL    : https://portfolio-eight-beta-78.vercel.app
 
 ---
 
-## 💻 [SYSTEMS_&_INFRASTRUCTURE]
+##  [SYSTEMS_&_INFRASTRUCTURE]
 
-### ⚙️ [lab-minsk-compiler](https://github.com/saksham-45/lab-minsk-compiler)
+###  [lab-minsk-compiler](https://github.com/saksham-45/lab-minsk-compiler)
 > **Lexer, Parser, Binder, and Lowering REPL built from Scratch**
 * Authored a custom compiler implementing complete lexical analysis, syntax parsing, semantic binding, and program lowering.
 * Built a custom Read-Eval-Print Loop (REPL) environment to evaluate expressions and statements interactively with full diagnostics reporting.
 * *Stack:* `C#` | `.NET` | `Compiler Architecture` | `AST Lowering`
 
-### 🔊 [VoiceAgents](https://github.com/saksham-45/voiceagents)
+###  [VoiceAgents](https://github.com/saksham-45/voiceagents)
 > **Voice & Text Agent-Control Pipeline for LMMS DAW**
 * Built the entire agent subsystem inside VoiceAgents, including the Qt/C++ AgentControl plugin, Python runtime, and voice client.
 * Crafted the command pipeline to process noisy transcripts, handle wake phrases, preserve track context, and dispatch DAW actions.
 * *Stack:* `C++` | `Qt` | `Python` | `Audio DAW Integration`
 
-### 🛡️ [docker-android](https://github.com/saksham-45/docker-android) & [container-xrdp](https://github.com/saksham-45/container-xrdp)
+###  [docker-android](https://github.com/saksham-45/docker-android) & [container-xrdp](https://github.com/saksham-45/container-xrdp)
 > **Open-Source Infrastructure Hardening & Security fixes**
 * Hardened containerized Android stacks by rebinding ADB interfaces to localhost, adding fail-safes for hung startups, and securing remote desktop remote desktop defaults across CentOS, Fedora, and Ubuntu.
 * *Stack:* `Docker` | `Linux` | `Network Security` | `Bash`
 
 ---
 
-## 📊 [SYSTEM_METRICS]
+##  [SYSTEM_METRICS]
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -120,7 +120,7 @@ PORTAL    : https://portfolio-eight-beta-78.vercel.app
 
 ---
 
-## 📡 [CONNECT_NETWORK]
+##  [CONNECT_NETWORK]
 
 <p align="center">
   <a href="https://portfolio-eight-beta-78.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>

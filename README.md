@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/System-GNU%2FLinux-00f0ff?style=flat-square&logo=linux&logoColor=00f0ff&labelColor=0d0d15" alt="OS" />
-  <img src="https://img.shields.io/badge/USF-Computer%20Engineering-00FF66?style=flat-square&logo=education&logoColor=00FF66&labelColor=0d0d15" alt="USF" />
+  <img src="https://img.shields.io/badge/USF-Computer%20Engineering-00FF66?style=flat-square&logo=education&logoColor=0d2617&labelColor=0d0d15" alt="USF" />
   <img src="https://img.shields.io/badge/Cognitive%20Minor-Mathematics-FF007F?style=flat-square&logo=data-version-control&logoColor=FF007F&labelColor=0d0d15" alt="Math Minor" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-bf55ec?style=flat-square&labelColor=0d0d15" alt="Status" />
 </p>

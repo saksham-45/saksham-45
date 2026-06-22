@@ -1,4 +1,4 @@
-# [INITIALIZING PORTAL...]
+# [THIS IS MY ART GALLERY LOL]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=%5B%20INITIALIZING%20PORTAL%20%5D;SAKSHAM%20SRIVASTAVA;CREATIVE%20ENGINEER%20%2F%20AI%20%26%20MATH;COMPILER%20BUILDER%20%26%20SEC;DECRYPTING%20REALITY..." alt="Saksham Srivastava" />

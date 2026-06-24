@@ -1,10 +1,6 @@
 # [THIS IS MY ART GALLERY LOL]
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=%5B%20INITIALIZING%20PORTAL%20%5D;SAKSHAM%20SRIVASTAVA;CREATIVE%20ENGINEER%20%2F%20AI%20%26%20MATH;COMPILER%20BUILDER%20%26%20SEC;DECRYPTING%20REALITY..." alt="Saksham Srivastava" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/System-GNU%2FLinux-00f0ff?style=flat-square&logo=linux&logoColor=00f0ff&labelColor=0d0d15" alt="OS" />
   <img src="https://img.shields.io/badge/USF-Computer%20Engineering-0d2617?style=flat-square&logo=education&logoColor=0d2617&labelColor=0d0d15" alt="USF" />
   <img src="https://img.shields.io/badge/Cognitive%20Minor-Mathematics-FF007F?style=flat-square&logo=data-version-control&logoColor=FF007F&labelColor=0d0d15" alt="Math Minor" />
@@ -102,21 +98,6 @@ PORTAL    : https://portfolio-eight-beta-78.vercel.app
 > **Open-Source Infrastructure Hardening & Security fixes**
 * Hardened containerized Android stacks by rebinding ADB interfaces to localhost, adding fail-safes for hung startups, and securing remote desktop remote desktop defaults across CentOS, Fedora, and Ubuntu.
 * *Stack:* `Docker` | `Linux` | `Network Security` | `Bash`
-
----
-
-##  [SYSTEM_METRICS]
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=saksham-45&show_icons=true&theme=dark&bg_color=0d0d15&title_color=00f0ff&text_color=e2e2e9&icon_color=ff007f&border_color=390099&border_radius=8" alt="GitHub Stats" width="100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-45&theme=dark&background=0d0d15&ring=00f0ff&fire=ff007f&currStreakNum=e2e2e9&sideNums=e2e2e9&sideLabels=e2e2e9&dates=a0a0b0" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 

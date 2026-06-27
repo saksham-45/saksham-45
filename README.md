@@ -3,11 +3,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/System-GNU%2FLinux-00f0ff?style=flat-square&logo=linux&logoColor=00f0ff&labelColor=0d0d15" alt="OS" />
   <img src="https://img.shields.io/badge/USF-Computer%20Engineering-0d2617?style=flat-square&logo=education&logoColor=0d2617&labelColor=0d0d15" alt="USF" />
-  <img src="https://img.shields.io/badge/Cognitive%20Minor-Mathematics-FF007F?style=flat-square&logo=data-version-control&logoColor=FF007F&labelColor=0d0d15" alt="Math Minor" />
+  <img src="https://img.shields.io/badge/Minor-Mathematics-FF007F?style=flat-square&logo=data-version-control&logoColor=FF007F&labelColor=0d0d15" alt="Math Minor" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-bf55ec?style=flat-square&labelColor=0d0d15" alt="Status" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=%5B%20INITIALIZING%20PORTAL%20%5D;SAKSHAM%20SRIVASTAVA;CREATIVE%20ENGINEER%20%2F%20AI%20%26%20MATH;Lund%20Bhagat;COMPILER%20BUILDER%20%26%20SEC;DECRYPTING%20REALITY..." alt="Saksham Srivastava" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=%5B%20INITIALIZING%20PORTAL%20%5D;SAKSHAM%20SRIVASTAVA;CREATIVE%20ENGINEER%20%2F%20AI%20%26%20MATH;BUILDER%20%26%20SEC;Working%20on%20cool%20shit..." alt="Saksham Srivastava" />
 </p>
 
 

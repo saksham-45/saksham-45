@@ -3,7 +3,7 @@
 <p align="center">
   <em>Computer Engineering @ USF &nbsp;·&nbsp; Math Minor &nbsp;·&nbsp; building at the edge of math + systems</em>
   <br/>
-  <code>//  this is my art </code>
+  <code>//  this is art </code>
 </p>
 
 <p align="center">

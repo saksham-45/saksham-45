@@ -30,7 +30,7 @@ I build at the seam between math and systems: agent-based simulations, neural ne
 
 **[visualizzer](https://github.com/saksham-45/visualizzer)** — Real-time audio-reactive graphics. A 2048-point FFT drives 2D canvas, WebGL2 shaders, GPU particles, and Three.js scenes at 60fps. [Live demo.](https://visualizzer.vercel.app/) *JavaScript, Web Audio API, WebGL2.*
 
-Also: [voiceagents](https://github.com/saksham-45/voiceagents) (Qt/C++ voice control for LMMS), [docker-android](https://github.com/saksham-45/docker-android) and [container-xrdp](https://github.com/saksham-45/container-xrdp) (container hardening).
+Also: [lab-minsk-compiler](https://github.com/saksham-45/lab-minsk-compiler) (C#/.NET compiler and REPL), [voiceagents](https://github.com/saksham-45/voiceagents) (Qt/C++ voice control for LMMS), [docker-android](https://github.com/saksham-45/docker-android) and [container-xrdp](https://github.com/saksham-45/container-xrdp) (container hardening).
 
 ---
 
@@ -43,6 +43,16 @@ Extending Mathon with a type system and user-defined functions. Sharpening autom
 ## Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saksham-45&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-45&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" alt="Top languages" />
+  <img src="./metrics.svg" alt="Metrics" width="49%" />
+  <img src="./metrics.languages.svg" alt="Languages" width="49%" />
 </p>
+
+<p align="left">
+  <img src="./metrics.isometric.svg" alt="Isometric commit calendar" width="99%" />
+</p>
+
+<p align="left">
+  <img src="./metrics.habits.svg" alt="Coding habits" width="49%" />
+</p>
+
+<sub>Regenerated hourly by [lowlighter/metrics](https://github.com/lowlighter/metrics) via GitHub Actions.</sub>

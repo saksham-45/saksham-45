@@ -134,9 +134,7 @@ STATUS    : open to Summer/Fall internships — let's build something
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-45&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d15&title_color=00f0ff&text_color=c9d1d9" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saksham-45&hide_border=true&background=0d0d15&stroke=00f0ff&ring=FF007F&fire=FF007F&currStreakLabel=00f0ff&sideLabels=bf55ec&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=saksham-45&theme=darcula&hide_border=true)](https://git.io/streak-stats)
 
 ---
 

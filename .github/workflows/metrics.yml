@@ -1,0 +1,92 @@
+name: Metrics
+
+on:
+  # Refresh every hour. GitHub caches README images for a few minutes, so this
+  # is roughly the tightest cadence that actually shows up. Change to */30 for
+  # every 30 min, or to a daily cron if you want to save Actions minutes.
+  schedule:
+    - cron: "0 * * * *"
+  # Also refresh on push to main so edits appear immediately.
+  push:
+    branches: [ "main" ]
+  # And allow manual runs from the Actions tab.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  # ---------------------------------------------------------------------------
+  # 1) Main stats card — repos, commits, PRs, issues, followers, stars
+  # ---------------------------------------------------------------------------
+  main-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: saksham-45
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/New_York
+          config_padding: 0, 8 + 6%
+          # Monochrome look
+          config_display: large
+
+  # ---------------------------------------------------------------------------
+  # 2) Top languages
+  # ---------------------------------------------------------------------------
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: saksham-45
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, scss, dockerfile, makefile, tex, jupyter notebook,
+            batchfile, powershell, roff, shell
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_sections: most-used
+          config_padding: 0, 8 + 6%
+
+  # ---------------------------------------------------------------------------
+  # 3) Isometric commit calendar — the "constantly updating" showpiece
+  # ---------------------------------------------------------------------------
+  isometric:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isometric.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: saksham-45
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_padding: 0, 8 + 6%
+
+  # ---------------------------------------------------------------------------
+  # 4) Activity + habits — recent commits, PRs, issues, coding patterns
+  # ---------------------------------------------------------------------------
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: saksham-45
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_padding: 0, 8 + 6%

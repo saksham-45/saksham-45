@@ -33,13 +33,10 @@ I build at the seam between math and systems: agent-based simulations, neural ne
 Also: [lab-minsk-compiler](https://github.com/saksham-45/lab-minsk-compiler) (C#/.NET compiler and REPL), [voiceagents](https://github.com/saksham-45/voiceagents) (Qt/C++ voice control for LMMS), [docker-android](https://github.com/saksham-45/docker-android) and [container-xrdp](https://github.com/saksham-45/container-xrdp) (container hardening).
 
 ---
-
 ## Currently
 
-Extending Mathon with a type system and user-defined functions. Sharpening automix's transition scoring. Adding shader visualizers to visualizzer. Reading compilers, DSP, and agent systems.
-
+Extending my own personal research about Machine Learning and Data Analysis. Sharpening automix's transition scoring. Adding shader visualizers to visualizzer. Reading compilers, DSP, and agent systems.
 ---
-
 ## Stats
 
 <p align="left">

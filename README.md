@@ -39,11 +39,13 @@ Extending my research and understanding about Machine Learning and Data Analysis
 ---
 ## Stats
 
-<p align="left">
-  <img src="./metrics.svg" alt="Metrics" width="49%" />
-  <img src="./metrics.languages.svg" alt="Languages" width="49%" />
+<p align="centre">
+  <img src="./metrics.svg" alt="Metrics" width="100%" />
+ 
 </p>
-
+<p align="centre">
+   <img src="./metrics.languages.svg" alt="Languages" width="49%" />
+</p>
 <p align="left">
   <img src="./metrics.isometric.svg" alt="Isometric commit calendar" width="99%" />
 </p>

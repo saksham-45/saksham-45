@@ -48,8 +48,5 @@ Extending my research and understanding about Machine Learning and Data Analysis
   <img src="./metrics.isometric.svg" alt="Isometric commit calendar" width="99%" />
 </p>
 
-<p align="left">
-  <img src="./metrics.habits.svg" alt="Coding habits" width="49%" />
-</p>
 
 <sub>Regenerated hourly by [lowlighter/metrics](https://github.com/lowlighter/metrics) via GitHub Actions.</sub>

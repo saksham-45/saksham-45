@@ -35,7 +35,7 @@ Also: [lab-minsk-compiler](https://github.com/saksham-45/lab-minsk-compiler) (C#
 ---
 ## Currently
 
-Extending my own  research about Machine Learning and Data Analysis. Sharpening automix's transition scoring. Adding shader visualizers to visualizzer. Reading compilers, DSP, and agent systems.
+Extending my research and understanding about Machine Learning and Data Analysis. Sharpening automix's transition scoring. Adding shader visualizers to visualizzer. Reading compilers, DSP, and agent systems.
 ---
 ## Stats
 

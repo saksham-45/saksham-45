@@ -26,7 +26,7 @@ I build at the seam between math and systems: agent-based simulations, neural ne
 
 **[Mathon](https://github.com/saksham-45/Mathon)** : A scientific-computing DSL and compiler. Full pipeline from lexer through AST to LLVM IR and JIT execution, with symbolic differentiation, dual-number autodiff, and Simpson's-rule integration. *Python, llvmlite.*
 
-**[isomercount](https://github.com/saksham-45/isomercount)** ; Combinatorial enumeration engine. Exact counting for cyclic graphs and colored snake polyominoes using transfer matrices, Burnside's lemma, and Möbius filtering. Symbolic verification against known sequences. *Python, NumPy, SymPy.*
+**[isomercount](https://github.com/saksham-45/isomercount)** : Combinatorial enumeration engine. Exact counting for cyclic graphs and colored snake polyominoes using transfer matrices, Burnside's lemma, and Möbius filtering. Symbolic verification against known sequences. *Python, NumPy, SymPy.*
 
 **[visualizzer](https://github.com/saksham-45/visualizzer)** : Real-time audio-reactive graphics. A 2048-point FFT drives 2D canvas, WebGL2 shaders, GPU particles, and Three.js scenes at 60fps. [Live demo.](https://visualizzer.vercel.app/) *JavaScript, Web Audio API, WebGL2.*
 

@@ -37,18 +37,3 @@ Also: [lab-minsk-compiler](https://github.com/saksham-45/lab-minsk-compiler) (C#
 
 Extending my research and understanding about Machine Learning and Data Analysis. Sharpening automix's transition scoring. Adding shader visualizers to visualizzer. Reading compilers, DSP, and agent systems.
 ---
-## Stats
-
-<p align="centre">
-  <img src="./metrics.svg" alt="Metrics" width="100%" />
- 
-</p>
-<p align="centre">
-   <img src="./metrics.languages.svg" alt="Languages" width="100%" />
-</p>
-<p align="left">
-  <img src="./metrics.isometric.svg" alt="Isometric commit calendar" width="75%" />
-</p>
-
-
-<sub>Regenerated hourly by [lowlighter/metrics](https://github.com/lowlighter/metrics) via GitHub Actions.</sub>

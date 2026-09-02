@@ -2,8 +2,6 @@
 
 Computer Engineering, University of South Florida & minor in Mathematics. Based in Tampa, FL.
 
-I build at the seam between math and systems: agent-based simulations, neural nets for real-time audio, compilers written from scratch. Open to Summer/Fall internships.
-
 [Portfolio](https://portfolio-eight-beta-78.vercel.app) · [Email](mailto:saksham146053@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saksham-srivastava-041304296)
 
 ---
@@ -32,8 +30,3 @@ I build at the seam between math and systems: agent-based simulations, neural ne
 
 Also: [lab-minsk-compiler](https://github.com/saksham-45/lab-minsk-compiler) (C#/.NET compiler and REPL), [voiceagents](https://github.com/saksham-45/voiceagents) (Qt/C++ voice control for LMMS), [docker-android](https://github.com/saksham-45/docker-android) and [container-xrdp](https://github.com/saksham-45/container-xrdp) (container hardening).
 
----
-## Currently
-
-Extending my research and understanding about Machine Learning and Data Analysis. Sharpening automix's transition scoring. Adding shader visualizers to visualizzer. Reading compilers, DSP, and agent systems.
----

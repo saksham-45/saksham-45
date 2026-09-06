@@ -8,7 +8,7 @@ Computer Engineering, University of South Florida & minor in Mathematics. Based 
 
 ## Stack
 
-`Python` · `C++` · `C#` · `JavaScript` · `Swift` · `Bash`
+`Python` · `RUST` · `C#` · `JavaScript` · `Swift` · `Bash`
 `PyTorch` · `TensorFlow` · `NumPy` · `SymPy` · `OpenCV` · `Librosa`
 `LLVM` · `Three.js` · `Qt` · `Docker` · `Linux` · `Git`
 

@@ -1,4 +1,4 @@
-![a brain, simulated live in ASCII](brain.gif)
+![a cinematic ASCII tour: sun to Neptune](solar.gif)
 
 # Saksham Srivastava
 

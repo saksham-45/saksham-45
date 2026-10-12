@@ -1,4 +1,6 @@
-![a cinematic ASCII tour: sun to Neptune](solar.gif)
+<p align="center">
+  <img src="solar.gif" width="100%" alt="a cinematic ASCII tour: sun to Neptune">
+</p>
 
 # Saksham Srivastava
 

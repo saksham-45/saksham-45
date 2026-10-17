@@ -54,7 +54,7 @@ WebGL visuals driven by a 2048-point FFT at 60fps.
 **Covid-Help** - founded and led a volunteer platform connecting COVID
 patients with resources (2021).
 
-Also: lab-minsk-compiler (C#/.NET compiler + REPL), voiceagents (Qt/C++
+Also: voiceagents (Qt/C++
 voice control for LMMS), docker-android, container-xrdp.
 
 ## Stack
